@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: blanchedalmond;
+  padding: 20px;
+}
+nav a {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: blueviolet;
+}
+
+nav a:active {
+  color: red;
+}
